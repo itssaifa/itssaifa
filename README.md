@@ -1,17 +1,23 @@
-## Hi there! I'm Saifa 👋
+## Hello World! I'm [Saifa Samia](https://www.linkedin.com/in/saifa-samia-8616b721a/) 👋
 
-✨ Welcome to my GitHub profile! I'm currently studying Computer Science at Georgia State University and working as a Software Engineering Fellow at Headstarter AI. 
-Here's a little bit about me:
+✨ Welcome to my GitHub profile! I am currently studying Computer Science at Georgia State University. Here's a little bit about me:
 
-## 🛠️ Technologies & Tools
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c)
-![Java](https://img.shields.io/badge/-Java-F80000?style=flat&logo=java)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5)
-![Assembly](https://img.shields.io/badge/-Assembly-6E4C41?style=flat&logo=undefined)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
+## 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![PuTTY](https://img.shields.io/badge/PuTTY-023130?style=for-the-badge&logo=putty&logoColor=white)
+
+## 🔭 Technologies
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 <!--![Node.js](https://img.shields.io/badge/-Node.js-8CC84B?style=flat&logo=node.js)-->
+<!-- ![Assembly](https://img.shields.io/badge/-Assembly-6E4C41?style=flat&logo=undefined) -->
 
 ## 📊 GitHub Stats
 ### Overview
