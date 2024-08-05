@@ -33,7 +33,7 @@
 <!--## 🏆 GitHub Trophies
 [![Trophies](https://github-profile-trophy.vercel.app/?username=itssaifa)](https://github.com/itssaifa) -->
 
-## 🌟 Featured Repositories
+<!-- ## 🌟 Featured Repositories
 ### [Landing Page](https://github.com/itssaifa/landing-page)
 This repository showcases a personal portfolio website design built with modern web technologies. It's a great example of [HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white), [CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white), and [JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) used in creating engaging web interfaces.
 
@@ -41,13 +41,13 @@ This repository showcases a personal portfolio website design built with modern 
 - ⭐ [Star this Repository](https://github.com/itssaifa/landing-page/stargazers)
 - 🍴 [Fork this Repository](https://github.com/itssaifa/landing-page/fork)
 
-<!-- ![Landing Page Screenshot](https://your-image-host.com/landing-page-screenshot.png) -->
+![Landing Page Screenshot](https://your-image-host.com/landing-page-screenshot.png)
 <!-- - **[Another Repo](https://github.com/itssaifa/another-repo)**
   - Brief description of this repository. -->
   
 ## 🔗 Let's Connect!
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saifa-samia-8616b721a/)
-- ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=itssaifa.itssaifa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saifa-samia-8616b721a/)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=itssaifa.itssaifa)
 
 
 
