@@ -1,6 +1,8 @@
 ## Hello World! I'm [Saifa Samia](https://www.linkedin.com/in/saifa-samia-8616b721a/) 👋
 
-✨ Welcome to my GitHub profile! I am currently studying Computer Science at Georgia State University. Here's a little bit about me:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itssaifa&layout=compact&theme=dark)
+
+<!--!✨ Welcome to my GitHub profile! I am currently studying Computer Science at Georgia State University. Here's a little bit about me:
 
 ## 🛠️ Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -19,7 +21,7 @@
 <!--![Node.js](https://img.shields.io/badge/-Node.js-8CC84B?style=flat&logo=node.js)-->
 <!-- ![Assembly](https://img.shields.io/badge/-Assembly-6E4C41?style=flat&logo=undefined) -->
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 ### Overview
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itssaifa&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itssaifa&layout=compact&theme=dark)
@@ -45,9 +47,9 @@ This repository showcases a personal portfolio website design built with modern 
 <!-- - **[Another Repo](https://github.com/itssaifa/another-repo)**
   - Brief description of this repository. -->
   
-## 🔗 Let's Connect!
+<!-- ## 🔗 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saifa-samia-8616b721a/)
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=itssaifa.itssaifa)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=itssaifa.itssaifa) -->
 
 
 
